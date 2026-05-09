@@ -161,7 +161,7 @@ I am a Computer Science Engineering student passionate about Data Analytics, Ful
 If you found this project useful, feel free to:
 - Star the repository
 - Fork the project
-- Connect with me on LinkedIn
+- Connect with me on LinkedIn: https://www.linkedin.com/in/your-linkedin-username/
 - Share feedback and suggestions
 
 
